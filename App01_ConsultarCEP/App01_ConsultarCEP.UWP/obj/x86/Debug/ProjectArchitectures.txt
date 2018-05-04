@@ -1,0 +1,1 @@
+C:\Users\tjsid\source\repos\App01_ConsultarCEP\App01_ConsultarCEP\App01_ConsultarCEP.UWP\App01_ConsultarCEP.UWP.csproj;x86
